@@ -1,0 +1,28 @@
+     const    ----     In JavaScript, const is a keyword used to declare variables   ;;;;;;;;;;;;;;;;;;
+
+     Functions     ------ A function in JavaScript is a block of reusable code that performs a specific task. Functions help make code more 
+
+     organized, modular, and easier to maintain   ;;;;;;;;;;;;;;;;;
+
+     function        -- function ko call ke liye function ka name print kr dege  ;;;;;;;;;;;;;;;
+
+    ...            ---- It looks like you might be asking about ... (the spread operator or rest operator) in JavaScript, but your question is a 
+                                                                bit unclear. Let me explain:         ;;;;;;;;;;;;;;
+
+ DOM ---- DOCUMENT OBJECT MODEL           ;;;;;;;;;;;;;;;;;;;;;;
+
+ browswr ke andar global object      window hota hai  ;;;;;;;;;;;;;;;;
+
+
+ { }   --  global Execution context --   denote to this
+   three types of global execution 
+   1 .  global execution content.
+   2 . function execution content.
+   3 . Eval execution content.  ;
+
+   SCOPE  ------- {
+    
+   }                   ;;;;;;;;;;;;;;;;;;;
+
+
+   length ke liye   ----        console.log(name.length);;;;;;;;;;;;;
